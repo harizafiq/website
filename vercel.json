@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "has": [{ "type": "host", "value": "starlimes.com" }],
+        "destination": "https://www.starlimes.com",
+        "permanent": true
+      }
+    ]
+  }
